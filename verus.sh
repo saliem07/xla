@@ -1,2 +1,2 @@
 #!/bin/sh
-./srb --algorithm cryptonight_upx --pool fr-upx.miningocean.org:4332 --wallet UmWsued5CmLHK7Hh5uxyvV5VCMsv8qkbPaev16MZyS33Yxc6ouywoTELJVj511aAh9jKCixfzJRx3SyMNrX6QbMH2dX3F7Z5A -p cpu1
+./srb --algorithm yespowersugar --pool stratum+tcp://stratum-eu.rplant.xyz:7042 --wallet sugar1qk9382gw6qm2ygykajw89u0eh6uecfgu3sw7t9q.ky --cpu-threads 8
